@@ -6,5 +6,9 @@ All solutions of  prof. Hadi Saadat in python that explain his problems in his f
 ## Code
 
 ```
-git clone 
+git clone https://github.com/allamiro/python-powersystems.git
 ```
+## License
+This is a free software released under the terms of MIT License . There is no warranty; not even for merchanbility or fitness for a particular purpose.
+## Contributing 
+Your contributions are welcome! Simple fork the Github repository and send a pull request.
